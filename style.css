@@ -13,8 +13,7 @@ h1 {
 p {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	font-size: 1.5vw;
-}
+	}
 .headerbox {
 	background-color: #5d8cd8;
 	width: 100%;
@@ -183,6 +182,20 @@ p {
 @media screen and (max-width: 1100px) {
     .paragraphs {
         margin-left: 50px!important;
-	margin-right: 50px!important;
+		margin-right: 50px!important;
     }
+	p {
+		font-size: 2vw;
+	}
+	.links {
+		font-size: 2vw;
+		padding: 1.5vw 1.5vw;
+	}
+	.links2 {
+		font-size: 2vw;
+		padding: 1.5vw 1.5vw;
+	}
+	h2 {
+		font-size: 2.5vw;
+	}
 }
