@@ -13,6 +13,7 @@ h1 {
 p {
 	margin-top: 0px;
 	margin-bottom: 0px;
+	font-size: 1.5vw;
 }
 .headerbox {
 	background-color: #5d8cd8;
@@ -179,7 +180,7 @@ p {
     	background-color: #ddd;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1100px) {
     .paragraphs {
         margin-left: 50px!important;
 	margin-right: 50px!important;
