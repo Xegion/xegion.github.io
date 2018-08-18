@@ -336,3 +336,13 @@ object {
 .pikto {
 	width: 845px;
 }
+.top-box {
+	margin-bottom: 75px;
+	padding-bottom: 80px;
+	border-bottom: 1px solid #a2a0a0;
+}
+.content-box {
+	margin-bottom: 75px;
+	padding-bottom: 75px;
+	border-bottom: 1px solid #a2a0a0;
+}
